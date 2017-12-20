@@ -1,0 +1,16 @@
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 25px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    color: #ecec32;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 23px;
+    float: left;
+}
+
+/*******************Select Check Box Css Close**********************/
+
+/*******************Rajdeep Css Close**********************/
